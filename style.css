@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+}
+div {
+    width: 800px;
+    height: 600px;
+    background-image: url(./image/599153-canada-park-mountains-scenery-forest-road-yoho-hdr-nature.jpg);
+    background-size: cover;
+}
+h4{
+font-family: sans-serif;
+font-size: 40px;
+color: aqua;
+
+}
